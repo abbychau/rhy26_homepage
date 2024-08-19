@@ -17,4 +17,4 @@
 ![image](https://github.com/user-attachments/assets/e768c166-7c1b-4f19-af9e-cd10f7bc8ab2)
 
 ## 下載
-[Download v.20240820]()
+[Download v.20240820](https://www.dropbox.com/scl/fi/i0dpj5rquuhteexwxciub/exported.zip?rlkey=9pmq6uahqf0130cix5fma716e&st=9hp7h0tx&dl=0)
